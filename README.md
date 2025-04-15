@@ -43,12 +43,6 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender alg
 
 ---
 
-### Licença
-
-Este repositório está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
----
-
 ### Contato
 
 📧 Email: samueljubim47@gmail.com  
