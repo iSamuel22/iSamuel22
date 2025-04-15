@@ -25,14 +25,6 @@ Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender alg
 
 ---
 
-### Projetos em destaque
-
-- 📌 **[Projeto 1](#)**: Breve descrição do projeto 1.
-- 📌 **[Projeto 2](#)**: Breve descrição do projeto 2.
-- 📌 **[Projeto 3](#)**: Breve descrição do projeto 3.
-
----
-
 ### Como contribuir
 
 - Faça um fork deste repositório.
