@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:0062FF&height=190&section=header&text=Samuel%20Pena&fontColor=FFFFFF&fontSize=60&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=63" alt="Samuel Pena - Desenvolvedor Web" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:0062FF&height=190&section=header&text=Samuel%20Pena&fontColor=FFFFFF&fontSize=60&fontAlignY=40&desc=Desenvolvedor%20Web%20&descSize=20&descAlignY=63" alt="Samuel Pena - Desenvolvedor Web" width="100%" />
 </div>
 
 <!-- BADGES -->
