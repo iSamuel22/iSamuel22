@@ -110,15 +110,6 @@
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-  <h2>🐍 Contribuições</h2>
-</div>
-
-![Snake Game Animation](https://raw.githubusercontent.com/iSamuel22/iSamuel22/output/github-contribution-grid-snake-dark.svg)
-
----
-
 <!-- CONTACT SECTION -->
 <div align="center">
   <h2>📬 Fale Comigo</h2>
