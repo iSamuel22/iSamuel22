@@ -117,7 +117,7 @@
 
 <div align="center">
   <a href="mailto:ipsamdev@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-samueljubim47@gmail.com-EA4335?style=for-the-badge&logo=mail&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-ipsamdev@gmail.com-EA4335?style=for-the-badge&logo=mail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/smuelp" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
