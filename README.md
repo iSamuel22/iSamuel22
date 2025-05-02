@@ -27,6 +27,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSamuel22&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="320px"/>
 
+<div>
+</div>
+
 - 🎓 Bacharelando em Sistemas de Informação - IFF
 - 💡 Sempre explorando e implementando novas tecnologias
 - 🔭 Foco em desenvolver interfaces modernas e intuitivas
