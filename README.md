@@ -18,17 +18,14 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0062FF&center=true&vCenter=true&random=false&width=580&lines=Transformando+ideias+em+soluções+digitais;Apaixonado+por+desenvolvimento+web;Explorando+novas+tecnologias+diariamente)](https://git.io/typing-svg)
   
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSamuel22&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="320px"/>
+
 </div>
 
 ---
 
 <!-- ABOUT ME SECTION -->
 ## 🧠 Sobre Mim
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSamuel22&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="320px"/>
-
-<div>
-</div>
 
 - 🎓 Bacharelando em Sistemas de Informação - IFF
 - 💡 Sempre explorando e implementando novas tecnologias
