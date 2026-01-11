@@ -24,10 +24,6 @@
 
 **Ferramentas:** Git, GitHub, VSCode, Vercel
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=iSamuel22&show_icons=true&theme=tokyonight)
-
 ## 📬 Contato
 
 📧 Email: ipsamdev@gmail.com  
