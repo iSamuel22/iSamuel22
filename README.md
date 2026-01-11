@@ -27,4 +27,4 @@
 ## 📬 Contato
 
 📧 Email: ipsamdev@gmail.com  
-💼 LinkedIn: [smuelp](https://linkedin.com/in/smuelp)
+💼 LinkedIn: [smuelp](https://www.linkedin.com/in/smuelp/)
