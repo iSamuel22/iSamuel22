@@ -27,15 +27,6 @@ Tecnologias que estudo na faculdade ou utilizo em projetos paralelos:
 
 ---
 
-### 📊 Atividade no GitHub
-
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iSamuel22&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSamuel22&layout=compact&theme=graywhite&hide_border=true"/>
-</div>
-
----
-
 ### 📫 Contato
 
 - **Email:** ipsamdev@gmail.com
