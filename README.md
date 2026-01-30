@@ -1,56 +1,43 @@
-# 👋 Olá, eu sou Samuel Pena
+# Olá, sou Samuel Pena 👋
 
-**Desenvolvedor Back-end Jr** | Santo Antônio de Pádua, RJ
+**Acadêmico de Sistemas de Informação | IFF Itaperuna**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smuelp)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ipsamuel)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ipsamdev@gmail.com)
+Sou um estudante vindo da área de Automação Industrial, agora migrando a lógica de processos para o desenvolvimento de software.
 
-## 🧠 Sobre Mim
-
-Acadêmico de **Sistemas de Informação** (IFF) com base técnica em Automação Industrial.
-
-Atualmente, meu foco profissional está no **Back-end** e na **Infraestrutura** de aplicações web. Gosto de resolver problemas de ambiente (Docker), otimizar consultas em banco de dados e garantir a organização do código através de padrões de projeto.
-
-- 🔭 **Foco atual:** PHP (MVC), Docker Orchestration & Migrations.
-- 💡 **Estudos paralelos:** React, Java e Python.
-- 🚀 **Objetivo:** Criar soluções escaláveis com documentação clara e código limpo.
+Atualmente, meu dia a dia profissional é focado no **Back-end**, onde estou aprendendo a lidar com sistemas reais, arquitetura MVC e a importância de um ambiente de desenvolvimento organizado (Docker).
 
 ---
 
-## 🛠️ Stack Principal (Foco Profissional)
+### 💻 Foco Profissional
+Ferramentas que estou utilizando diariamente para manutenção e evolução de sistemas:
 
-Ferramentas que utilizo no dia a dia para desenvolvimento e manutenção de sistemas:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### 📚 Vivência Acadêmica
+Tecnologias que estudo na faculdade ou utilizo em projetos paralelos:
 
-## 📚 Stack Acadêmica & Projetos
-
-Tecnologias que utilizo em projetos da faculdade e estudos pessoais:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Atividade no GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iSamuel22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSamuel22&layout=compact&theme=dracula"/>
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iSamuel22&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSamuel22&layout=compact&theme=graywhite&hide_border=true"/>
 </div>
 
 ---
 
-## 📬 Contato
+### 📫 Contato
 
-Estou à disposição para projetos e networking.
-
-📧 **Email:** ipsamdev@gmail.com
+- **Email:** ipsamdev@gmail.com
+- **LinkedIn:** [linkedin.com/in/smuelp](https://linkedin.com/in/smuelp)
+- **Instagram:** [@_ipsamuel](https://instagram.com/_ipsamuel)
