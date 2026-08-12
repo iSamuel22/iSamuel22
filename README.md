@@ -1,29 +1,29 @@
 # Olá, sou Samuel Pena 👋
 
-**Acadêmico de Sistemas de Informação | IFF Itaperuna**
+**Bacharel em Sistemas de Informação | Desenvolvedor Back-end**
 
-Sou um estudante vindo da área de Automação Industrial, agora migrando a lógica de processos para o desenvolvimento de software.
+Formado em Sistemas de Informação pelo IFF Itaperuna e com base prévia na área de Automação Industrial, aplico a lógica de processos na construção e arquitetura de software.
 
-Atualmente, meu dia a dia profissional é focado no **Back-end**, onde estou aprendendo a lidar com sistemas reais, arquitetura MVC e a importância de um ambiente de desenvolvimento organizado (Docker).
+Atualmente, minha atuação profissional é focada no **Back-end**, trabalhando no desenvolvimento e arquitetura de **integrações de APIs** utilizando **Python** em ambientes conteinerizados com **Docker**.
 
 ---
 
 ### 💻 Foco Profissional
-Ferramentas que estou utilizando diariamente para manutenção e evolução de sistemas:
+Tecnologias e ferramentas que compõem meu dia a dia no desenvolvimento e integração de sistemas:
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 📚 Vivência Acadêmica
-Tecnologias que estudo na faculdade ou utilizo em projetos paralelos:
+### 📚 Outras Tecnologias e Conhecimentos
+Linguagens e ferramentas com as quais possuo experiência de mercado prévia ou sólida base acadêmica:
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
