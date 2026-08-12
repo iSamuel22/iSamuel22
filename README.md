@@ -31,4 +31,4 @@ Linguagens e ferramentas com as quais possuo experiência de mercado prévia ou 
 
 - **Email:** ipsamdev@gmail.com
 - **LinkedIn:** [linkedin.com/in/smuelp](https://linkedin.com/in/smuelp)
-- **Instagram:** [@_ipsamuel](https://instagram.com/_ipsamuel)
+- **Instagram:** [@_ipsamuel](https://instagram.com/_sampena)
